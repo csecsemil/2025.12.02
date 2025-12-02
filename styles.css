@@ -1,0 +1,14 @@
+body {
+    background-color: darkgray;
+}
+.container {
+    background-color: antiquewhite;
+}
+
+.nav {
+    background-color: lightgray;
+}
+
+.nav-pills .nav-link.active {
+    background-color: rgb(155, 36, 36);
+}
