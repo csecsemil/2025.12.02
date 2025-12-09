@@ -12,3 +12,11 @@ body {
 .nav-pills .nav-link.active {
     background-color: rgb(155, 36, 36);
 }
+
+.card {
+    width: 300px;
+}
+
+.card-text {
+    text-align: justify;
+}
